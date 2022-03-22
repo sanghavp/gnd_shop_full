@@ -1,0 +1,87 @@
+THÔNG TIN NHÓM 13 (Môn Phát Triển Ứng Dụng Web, nhóm 03)
+A.Thông tin Thành Viên:
+=======================
+Nhóm Trưởng: 
+Họ tên: Nguyễn Văn Đoài
+MSV: 1921050790
+Email: doaidev08@gmail.com
+=======================
+Thành Viên:
+1.
+Họ tên: Ngô Thị Ngọc
+MSV: 1921050443
+2.
+Họ tên: Hà Hữu Sáng
+MSV: 1921050506
+3.
+Họ tên: Bùi Thị Ngoan
+MSV: 1921050439
+4.
+Họ tên: Phan Thị Hà
+MSV: 1921050802
+========================
+B. Thông tin Bài Tập Lớn
+1.Thông tin website:
+-Tên Shop: GNDSHOP
+- Bán trang phục và phụ kiện thể thao.
+- Sử dụng html, css, bootstrap, javascript, jquery,ajax,
+ php+Mysql, upload web lên internet.
+
+- Địa chỉ trang web: https://gndshop.000webhostapp.com/
+
+2.Nhiệm vụ từng thành viên
+==============
+A.Về Back-end
+1.Hà Hữu Sáng
+- Thêm - xem - sửa - xóa loại sản phẩm ở admin
+- Hiển thị dữ liệu ở trang product_detail.php
+- Hỗ trợ Thiết kế cơ sở dữ liệu
+- Hiển thị dữ liệu ở giỏ hàng
+
+2.Phan Thị Hà
+- Thêm - xem - sửa - xóa danh mục sản phẩm ở admin
+- Hiển thị danh mục và loại sản phẩm ra ở sidebar
+
+3. Bùi Thị Ngoan
+- Đăng ký khách hàng
+- Đăng nhập khách hàng
+
+4. Ngô Thị Ngọc
+- Hiển thị dữ liệu sản phẩm ra ở trang home.php
+
+5.Nguyễn Văn Đoài
+- Dashboard.php ở admin
+- Thêm -xem - sửa - xóa sản phẩm ở admin
+- Chức năng Tìm kiếm
+- Hiển thị dữ liệu trang shop.php + Phân trang sản phẩm
+- Xử lý thêm giỏ hàng, xóa và cập nhật số lượng sản phẩm của giỏ
+- Hiển thị dữ liệu lên thanh navbar
+- Thiết kế cơ sở dữ liệu
+- Đăng nhập admin
+- Dữ liệu footer
+- Chức năng thanh toán giỏ hàng
+- Quản lý đơn hàng + chi tiết đơn hàng
+
+
+==============
+B.Về Front-end
+1.Hà Hữu Sáng
+-chitietsanpham.html
+-dangky.html
+-dangnhap.html
+-quenmatkhau.html
+
+2.Phan Thị Hà
+- lienhe.html
+
+3. Bùi Thị Ngoan
+- giohang.html
+
+4. Ngô Thị Ngọc
+- giaohang.html
+
+5.Nguyễn Văn Đoài.
+-index.html
+-aboutus.html
+-shop.html
+-thanhtoan.html
